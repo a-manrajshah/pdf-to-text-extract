@@ -1,0 +1,2 @@
+Sample ID,Client ID,Test ID,Sample Type,Temperature on receipt(Celsius),Date,Sample QC,QC Check 260/280,QC Concentration,Sequenced From,Library Type,Library QC,Library Date,Genome Sequencer,Run Date,Machine ID - Flowcell ID,Application,QC check,Application run by
+Sample01,CLI00,OmegaTB,Sputum,4,21-06-2021,Pass,1.35,0.31,Culture,150x2 paired end,Suboptimal,21-06-2021,Illumina NovaSeq,21-03-2022,NB501457-HL32VAFX3,OmegaTB v2.0.1,Pass,HAPL

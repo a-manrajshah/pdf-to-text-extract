@@ -1,0 +1,13 @@
+Position,Ref Allele,Alternate Allele,Type,Frequency,Coverage,Substitution,Gene Symbol,Gene Name,Drug,PMID,High Confidence SNP
+7570,C,T,SNP,69.32,264,Ala90Val (gcg/gTg),Rv0006,gyrA,FQ,21300839,yes
+7581,G,A,SNP,27.86,280,Asp94Asn (gac/Aac),Rv0006,gyrA,FQ,21562102,yes
+761139,C,A,SNP,62.59,139,His445Asn (cac/Aac),Rv0667,rpoB,RMP,14729930,yes
+761155,C,T,SNP,31.85,135,Ser450Leu (tcg/tTg),Rv0667,rpoB,RMP,21300839,yes
+761161,T,C,SNP,70.77,130,Leu452Pro (ctg/cCg),Rv0667,rpoB,RMP,8913484,yes
+781687,A,G,SNP,25.82,244,Lys43Arg (aag/aGg),Rv0682,rpsL,SM,22646308,yes
+1673425,C,T,SNP,99.22,257,,,,INH,21300839,yes
+2102240,C,T,SNP,70.38,260,Arg268His (cgc/cAc),Rv1854c,ndh,INH|ETH,11408244,no
+2155168,C,G,SNP,31.6,269,Ser315Thr (agc/aCc),Rv1908c,katG,INH,8878604,yes
+2288847,C,G,SNP,31.8,239,Gly132Ala (ggt/gCt),Rv2043c,pncA,PZA,25336456,yes
+4247429,A,G,SNP,70.07,274,Met306Val (atg/Gtg),Rv3795,embB,EMB,21300839,yes
+4248003,A,G,SNP,29.04,272,Gln497Arg (cag/cGg),Rv3795,embB,EMB,20427375,yes
